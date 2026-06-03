@@ -6,6 +6,6 @@ This project was developed as part of my Machine Learning learning journey. It d
 
 The project focuses on understanding the end-to-end workflow of a machine learning application, including data preparation, model training, model serialization, and web deployment.
 
-To support learning and documentation, AI-assisted tools such as Word AI, along with official documentation and educational resources, were used during the development process.
+To deploy it I used AI-assistance especially in front-end
 
 **Note:** This is a beginner-level educational project built on a small dataset and is not intended for real-world salary prediction.
