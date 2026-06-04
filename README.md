@@ -8,4 +8,8 @@ The project focuses on understanding the end-to-end workflow of a machine learni
 
 To deploy it I used AI-assistance especially in front-end
 
+## Data
+
+This project uses a dataset containing Years of Experience and Salary data. A Linear Regression model is trained on this dataset to predict salary based on the number of years of experience.
+
 **Note:** This is a beginner-level educational project built on a small dataset and is not intended for real-world salary prediction.
